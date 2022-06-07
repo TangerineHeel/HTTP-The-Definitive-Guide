@@ -135,7 +135,7 @@ URL은 크게 상대 URL과 절대 URL로 나뉘는데, 절대 URL은 리소스�
 
 **상대 URL을 절대 URL로 변경**
 
-![HTTP_URL](./assets/HTTP_URL.png)
+![HTTP_URL](../assets/HTTP_URL.png)
 
 ### 2.3.2 URL 확장
 
